@@ -1,0 +1,2 @@
+# GlassDetector-AI
+ Teachable machine
